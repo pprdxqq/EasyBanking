@@ -1,0 +1,1 @@
+{"name":"EasyBanking","short_name":"EasyBanking","description":"A smarter way to see your money.","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#101311","theme_color":"#101311","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
